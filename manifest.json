@@ -1,0 +1,16 @@
+{
+    "name": "兒童早療管理介面",
+    "short_name": "兒童早療管理介面",
+    "description": "兒童早療管理介面",
+    "display": "fullscreen",
+    "icons": [
+      {
+        "src": "favicon.png",
+        "sizes": "144x144",
+        "type": "image/png"
+      }
+    ],
+    "background_color": "white",
+    "start_url": "index.html"
+  }
+
