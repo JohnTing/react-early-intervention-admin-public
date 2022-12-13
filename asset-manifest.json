@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-early-intervention-admin-public/static/css/main.4f044684.css",
-    "main.js": "/react-early-intervention-admin-public/static/js/main.a3e33064.js",
+    "main.js": "/react-early-intervention-admin-public/static/js/main.27fd8530.js",
     "index.html": "/react-early-intervention-admin-public/index.html",
     "static/media/default.less": "/react-early-intervention-admin-public/static/media/default.003f90b383291c3b90da.less",
     "static/media/index.less": "/react-early-intervention-admin-public/static/media/index.512735b3dccd7d4b3088.less",
     "main.4f044684.css.map": "/react-early-intervention-admin-public/static/css/main.4f044684.css.map",
-    "main.a3e33064.js.map": "/react-early-intervention-admin-public/static/js/main.a3e33064.js.map"
+    "main.27fd8530.js.map": "/react-early-intervention-admin-public/static/js/main.27fd8530.js.map"
   },
   "entrypoints": [
     "static/css/main.4f044684.css",
-    "static/js/main.a3e33064.js"
+    "static/js/main.27fd8530.js"
   ]
 }
